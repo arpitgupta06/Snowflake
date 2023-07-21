@@ -1,0 +1,11 @@
+{
+    "user": "agupta07",
+    "password": " ",
+    "account": "kj13635.us-central1.gcp",
+    "role": " ",
+    "warehouse": " ",
+    "database": " ",
+    "schema": " ",
+    "authenticator":  "externalbrowser",
+    "_comment": "Use externalbrowser credential when your SF is logged in with any third party authentications"
+ }
